@@ -1,3 +1,0 @@
-selenium==3.141.0
-openai==0.10.3
-openai-secret-manager==0.0.4
